@@ -1,0 +1,7 @@
+# Mark specific extensions as binary
+*.exe binary
+*.zip binary
+*.png binary
+
+# You can also mark entire folders as binary
+assets/** binary
